@@ -1,0 +1,31 @@
+{
+  "name": "commonuse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayarahilton/commonuse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nayarahilton/commonuse/issues"
+  },
+  "homepage": "https://github.com/nayarahilton/commonuse#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "lodash": "^4.17.5"
+  },
+  "devDependencies": {
+    "consolidate": "^0.15.0",
+    "nodemon": "^1.17.1",
+    "pug": "^2.0.1",
+    "stylus": "^0.54.5"
+  }
+}
