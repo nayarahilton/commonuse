@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Categoria 1",
+        "page": "categoria1"
+    },
+    {
+        "name": "Categoria 2",
+        "page": "categoria2"
+    },
+    {
+        "name": "Categoria 3",
+        "page": "categoria3"
+    },
+    {
+        "name": "Categoria 4",
+        "page": "categoria4"
+    }
+]
