@@ -1,0 +1,13 @@
+doctype html
+html(lang="en")
+    head
+        title="Index"
+        link(rel="stylesheet" href="css/index.css")
+
+    body
+        h1 Hello!
+        ul
+            each item in pages
+                li
+                    img(src="images/" + item.page + ".jpg")
+                    a(href="/" + item.page)=item.name
